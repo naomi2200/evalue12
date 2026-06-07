@@ -174,7 +174,7 @@ npm run dev
 Enlace de producción:
 
 ```text
-PENDIENTE
+https://evalue12.vercel.app/
 ```
 
 ---
@@ -184,7 +184,7 @@ PENDIENTE
 Video de presentación:
 
 ```text
-PENDIENTE
+https://youtu.be/R7KFpgWpwO4
 ```
 
 ---
