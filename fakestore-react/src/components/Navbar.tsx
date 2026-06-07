@@ -2,9 +2,20 @@ import { Link } from "react-router-dom";
 
 function Navbar() {
   return (
-    <nav className="flex justify-center gap-6 p-4 border-b">
-      <Link to="/">Inicio</Link>
-      <Link to="/entities">Entities</Link>
+    <nav className="flex items-center justify-center gap-6 p-4 border-b mb-6">
+      <Link
+        to="/"
+        className="font-semibold hover:underline"
+      >
+        Inicio
+      </Link>
+
+      <Link
+        to="/entities"
+        className="font-semibold hover:underline"
+      >
+        Entities
+      </Link>
     </nav>
   );
 }
